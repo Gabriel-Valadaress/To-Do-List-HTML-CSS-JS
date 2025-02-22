@@ -18,13 +18,3 @@ A interface foi gerada utilizando [uxpilot.ai](https://uxpilot.ai) com o seguint
 ## 🚀 Sobre o Projeto
 
 Este é meu primeiro projeto completo de To-Do List, e ele me ajudou a reforçar meu entendimento sobre objetos em JavaScript e manipulação do DOM.
-
-## 📷 Captura de Tela
-
-![To-Do List Screenshot](screenshot.png) <!-- Substitua por um nome de arquivo real -->
-
-## 📥 Como Usar
-
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/To-Do-List-HTML-CSS-JS.git
